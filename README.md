@@ -1,2 +1,3 @@
-<img src="https://github.com/mkemalarda/TasarimCalismasi/assets/101436801/03291040-8e4a-4b34-a847-9a33d13796eb" width="255">
-<img src="https://github.com/mkemalarda/TasarimCalismasi/assets/101436801/c281d67a-04df-4d7f-adaf-ccae156907f5" width="255">
+<img src="https://github.com/mkemalarda/TasarimCalismasi/assets/101436801/5fdec98d-9a0e-4432-a9bf-fb96fc69b058" width="255">
+<img src="https://github.com/mkemalarda/TasarimCalismasi/assets/101436801/cb3c4f2d-dc1f-477d-b711-26b70f68336e" width="255">
+
